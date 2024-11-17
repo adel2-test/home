@@ -1,0 +1,33 @@
+﻿<Page x:Class="AssignmentApp.Admin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AssignmentApp"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Admin">
+
+    <Grid Background="AliceBlue">
+
+        <StackPanel>
+            <StackPanel Margin="10" Background="Gainsboro" Orientation="Horizontal" Height="40" Width="510">
+                <ComboBox SelectionChanged="ComboBox_SelectionChanged" Width="68" Name="comboBox"/>
+                <TextBox Width="335" Name="search"/>
+                <Button Width="107" Content="Search" FontSize="15" FontWeight="Bold" Click="Button_Click_2"  />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="20">
+                <Button Content="Delete" Width="128" FontSize="20" FontWeight="Bold" Click="Button_Click"/>
+                <Label Content="StudentId" FontWeight="Bold" Height="38" FontSize="20"/>
+                <TextBox RenderTransformOrigin="0.5,0.5" Width="280" Height="44" Name="studentId"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="20">
+                <Button Content="Update" Width="128" FontSize="20" FontWeight="Bold" Click="Button_Click_1"/>
+                <Label Content="Department" FontWeight="Bold" Height="38" FontSize="20"/>
+                <TextBox RenderTransformOrigin="0.5,0.5" Width="280" Height="44" Name="DepName"/>
+            </StackPanel>
+            <DataGrid Height="143" Width="768" Name="students"/>
+        </StackPanel>
+
+    </Grid>
+</Page>
