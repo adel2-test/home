@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\",
+  "WorkspaceRootPath": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\elk\\onedrive\\desktop\\adel mostafa _ w4\\assignmentapp\\assignmentapp\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\assignmentapp\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\assignmentapp\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\assignmentapp\\studentapplication.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\elk\\onedrive\\desktop\\adel\\git things\\assignmentapp\\assignmentapp\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\assignmentapp\\studentapplication.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\studentapplication.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\assignmentapp\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\assignmentapp\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\assignmentapp\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\assignmentapp\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\assignmentapp\\studentapplication.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\assignmentapp\\studentapplication.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\studentapplication.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\assignmentapp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\assignmentapp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\assignmentapp\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\assignmentapp\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\assignmentapp\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\assignmentapp\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\assignmentapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\assignmentapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\assignmentapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\assignmentapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E066E657-8219-4D86-B4A0-1956EAB02262}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,40 +54,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Admin.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\Admin.xaml.cs",
               "RelativeDocumentMoniker": "AssignmentApp\\Admin.xaml.cs",
-              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\Admin.xaml.cs",
               "RelativeToolTip": "AssignmentApp\\Admin.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAMzMzMzMRwGYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T20:13:32.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Admin.xaml",
-              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\Admin.xaml",
+              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\Admin.xaml",
               "RelativeDocumentMoniker": "AssignmentApp\\Admin.xaml",
-              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\Admin.xaml",
+              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\Admin.xaml",
               "RelativeToolTip": "AssignmentApp\\Admin.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-12T19:47:26.643Z"
+              "WhenOpened": "2024-11-12T19:47:26.643Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\Model1.edmx",
+              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\Model1.edmx",
               "RelativeDocumentMoniker": "AssignmentApp\\Model1.edmx",
               "ToolTip": "C:\\Users\\mohamed.eslam\\Desktop\\AssignmentApp\\AssignmentApp\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\mohamed.eslam\\Desktop\\AssignmentApp\\AssignmentApp\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\mohamed.eslam\\Desktop\\AssignmentApp\\AssignmentApp\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
               "WhenOpened": "2024-11-13T12:30:20.853Z"
             },
@@ -95,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Login.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\Login.xaml.cs",
               "RelativeDocumentMoniker": "AssignmentApp\\Login.xaml.cs",
-              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\Login.xaml.cs",
               "RelativeToolTip": "AssignmentApp\\Login.xaml.cs",
               "ViewState": "AgIAACIAAACALjMzMzMXwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Signup.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\Signup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\Signup.xaml.cs",
               "RelativeDocumentMoniker": "AssignmentApp\\Signup.xaml.cs",
-              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\Signup.xaml.cs",
+              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\Signup.xaml.cs",
               "RelativeToolTip": "AssignmentApp\\Signup.xaml.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAiwEoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "StudentApplication.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\StudentApplication.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\StudentApplication.xaml.cs",
               "RelativeDocumentMoniker": "AssignmentApp\\StudentApplication.xaml.cs",
-              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\StudentApplication.xaml.cs",
+              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\StudentApplication.xaml.cs",
               "RelativeToolTip": "AssignmentApp\\StudentApplication.xaml.cs",
               "ViewState": "AgIAABMAAAAAAAAAAADwvxYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,9 +132,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "StudentApplication.xaml",
-              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\StudentApplication.xaml",
+              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\StudentApplication.xaml",
               "RelativeDocumentMoniker": "AssignmentApp\\StudentApplication.xaml",
-              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\StudentApplication.xaml",
+              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\StudentApplication.xaml",
               "RelativeToolTip": "AssignmentApp\\StudentApplication.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-12T19:07:23.181Z"
@@ -142,9 +143,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Signup.xaml",
-              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\Signup.xaml",
+              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\Signup.xaml",
               "RelativeDocumentMoniker": "AssignmentApp\\Signup.xaml",
-              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\Signup.xaml",
+              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\Signup.xaml",
               "RelativeToolTip": "AssignmentApp\\Signup.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-12T19:04:15.48Z"
@@ -153,9 +154,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Login.xaml",
-              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\Login.xaml",
+              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\Login.xaml",
               "RelativeDocumentMoniker": "AssignmentApp\\Login.xaml",
-              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\Login.xaml",
+              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\Login.xaml",
               "RelativeToolTip": "AssignmentApp\\Login.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-12T19:03:34.214Z"
@@ -164,9 +165,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AssignmentApp\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\MainWindow.xaml",
               "RelativeToolTip": "AssignmentApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-12T19:02:46.076Z"
@@ -175,9 +176,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AssignmentApp\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel mostafa _ w4\\AssignmentApp\\AssignmentApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\elk\\OneDrive\\Desktop\\adel\\git things\\AssignmentApp\\AssignmentApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "AssignmentApp\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
